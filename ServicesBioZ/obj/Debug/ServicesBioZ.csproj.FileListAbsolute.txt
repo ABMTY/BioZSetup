@@ -1,0 +1,12 @@
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\Interop.zkemkeeper.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\ServicesBioZ.exe.config
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\ServicesBioZ.exe
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\ServicesBioZ.pdb
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\System.Net.Http.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\System.Windows.Forms.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\System.Net.Http.xml
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Debug\es\System.Net.Http.resources.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Debug\ServicesBioZ.exe
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Debug\ServicesBioZ.pdb
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Debug\ServicesBioZ.ProjectInstaller.resources
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Debug\ServicesBioZ.csproj.GenerateResource.Cache

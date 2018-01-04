@@ -1,0 +1,13 @@
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe.config
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.pdb
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\System.Net.Http.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\System.Windows.Forms.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\System.Net.Http.xml
+D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\es\System.Net.Http.resources.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\Interop.zkemkeeper.dll
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.csproj.ResolveComReference.cache
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.ProjectInstaller.resources
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.csproj.GenerateResource.Cache
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.exe
+D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.pdb

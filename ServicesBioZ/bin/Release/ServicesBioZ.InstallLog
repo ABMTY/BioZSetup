@@ -1,0 +1,127 @@
+﻿Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe.
+Confirmando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Instalando ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Instalando el servicio Servicio Bio Z...
+Creando el origen de EventLog Servicio Bio Z en el registro Application...
+Deshaciendo ensamblado 'D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.InstallLog
+   assemblypath = D:\BioZ\ServicesBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+Restaurando el registro de eventos al estado anterior para el origen Servicio Bio Z.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.

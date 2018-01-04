@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesBioZ", "ServicesBioZ\ServicesBioZ.csproj", "{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ServiceBioZSetup", "ServiceBioZSetup\ServiceBioZSetup.vdproj", "{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Debug|x86.ActiveCfg = Debug|x86
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Debug|x86.Build.0 = Debug|x86
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Release|x86.ActiveCfg = Release|x86
+		{09732988-7CC7-4DDF-9E77-B2D6534CDD5C}.Release|x86.Build.0 = Release|x86
+		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Debug|Any CPU.ActiveCfg = Debug
+		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Debug|x86.ActiveCfg = Debug
+		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Debug|x86.Build.0 = Debug
+		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Release|Any CPU.ActiveCfg = Release
+		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Release|x86.ActiveCfg = Release
+		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
