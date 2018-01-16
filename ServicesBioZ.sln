@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesBioZ", "ServicesBio
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ServiceBioZSetup", "ServiceBioZSetup\ServiceBioZSetup.vdproj", "{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupServiceBioZ", "StartupServiceBioZ\StartupServiceBioZ.csproj", "{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,14 @@ Global
 		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Release|Any CPU.ActiveCfg = Release
 		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Release|x86.ActiveCfg = Release
 		{452DA803-9B8B-4F14-BE72-A4A3C5F8782C}.Release|x86.Build.0 = Release
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Debug|x86.Build.0 = Debug|Any CPU
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Release|x86.ActiveCfg = Release|Any CPU
+		{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

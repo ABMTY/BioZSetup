@@ -15,18 +15,36 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_22E1EA6ED5A941B2B4B118748CFC0674"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_403CCE737592DD1869D467EB33E58D23"
+        "OwnerKey" = "8:_C986BFBFF61E4D9A9B2738E52C89A5A6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7F0CE7063BA4BEAAF4480FCDCA179302"
+        "OwnerKey" = "8:_C986BFBFF61E4D9A9B2738E52C89A5A6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8CCF795D52D34946ADE31B76052CFBD2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_C986BFBFF61E4D9A9B2738E52C89A5A6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F065AF14DF0199AFEC6D175FB9D5C525"
-        "OwnerKey" = "8:_C986BFBFF61E4D9A9B2738E52C89A5A6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_C986BFBFF61E4D9A9B2738E52C89A5A6"
         "MsmSig" = "8:_UNDEFINED"
@@ -34,7 +52,19 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F065AF14DF0199AFEC6D175FB9D5C525"
+        "OwnerKey" = "8:_8CCF795D52D34946ADE31B76052CFBD2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_7F0CE7063BA4BEAAF4480FCDCA179302"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_403CCE737592DD1869D467EB33E58D23"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -188,14 +218,65 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F065AF14DF0199AFEC6D175FB9D5C525"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_22E1EA6ED5A941B2B4B118748CFC0674"
+            {
+            "SourcePath" = "8:..\\StartupServiceBioZ\\img\\IcoBioz.ico"
+            "TargetName" = "8:IcoBioz.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_3DBC757F19E84B4BB526E99772338889"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_403CCE737592DD1869D467EB33E58D23"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_403CCE737592DD1869D467EB33E58D23"
+                    {
+                    "Name" = "8:System.Net.Http.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Net.Http.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_3DBC757F19E84B4BB526E99772338889"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7F0CE7063BA4BEAAF4480FCDCA179302"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
             "AssemblyAsmDisplayName" = "8:IBM.Data.Informix, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7c307b91aa13d208, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_F065AF14DF0199AFEC6D175FB9D5C525"
+                    "_7F0CE7063BA4BEAAF4480FCDCA179302"
                     {
                     "Name" = "8:IBM.Data.Informix.dll"
                     "Attributes" = "3:512"
@@ -234,6 +315,17 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E1E6FF37C9664CDF8617079755D75C28"
+                    {
+                    "Name" = "8:Startup Service BioZ"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_3BB5C43CE3C74C3FAC048813216D4E29"
+                        "Folders"
+                        {
+                        }
+                    }
                 }
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_3DBC757F19E84B4BB526E99772338889"
@@ -276,7 +368,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Servicio BioZ"
         "ProductCode" = "8:{534A953B-6D95-473D-AE53-EB175B620F5F}"
-        "PackageCode" = "8:{FF963688-CA31-4A82-B749-2CA565415765}"
+        "PackageCode" = "8:{E668F866-6DC6-48D0-81B6-522A6B492EA6}"
         "UpgradeCode" = "8:{E5242472-9467-4BAC-8103-34CE3D3DABF3}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -396,6 +488,34 @@
         }
         "Shortcut"
         {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E0C3E4FB0B424E7783E4E5559320F371"
+            {
+            "Name" = "8:StartupServiceBioZ"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_8CCF795D52D34946ADE31B76052CFBD2"
+            "Folder" = "8:_59969EB88A6F410CAE187AEE7F7F9CAA"
+            "WorkingFolder" = "8:_3DBC757F19E84B4BB526E99772338889"
+            "Icon" = "8:_22E1EA6ED5A941B2B4B118748CFC0674"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F7F9CFCD56B24EE5ACF7171004EDD961"
+            {
+            "Name" = "8:StartupServiceBioZ"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_8CCF795D52D34946ADE31B76052CFBD2"
+            "Folder" = "8:_E1E6FF37C9664CDF8617079755D75C28"
+            "WorkingFolder" = "8:_3DBC757F19E84B4BB526E99772338889"
+            "Icon" = "8:_22E1EA6ED5A941B2B4B118748CFC0674"
+            "Feature" = "8:"
+            }
         }
         "UserInterface"
         {
@@ -1563,9 +1683,37 @@
         }
         "ProjectOutput"
         {
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_8CCF795D52D34946ADE31B76052CFBD2"
+            {
+            "SourcePath" = "8:..\\StartupServiceBioZ\\obj\\Release\\StartupServiceBioZ.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_3DBC757F19E84B4BB526E99772338889"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{5982857F-7BBB-4B07-8845-DD2E0DE6BD24}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C986BFBFF61E4D9A9B2738E52C89A5A6"
             {
-            "SourcePath" = "8:..\\ServicesBioZ\\obj\\Release\\ServicesBioZ.exe"
+            "SourcePath" = "8:..\\ServicesBioZ\\obj\\x86\\Release\\ServicesBioZ.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_3DBC757F19E84B4BB526E99772338889"
