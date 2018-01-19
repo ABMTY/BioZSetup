@@ -5,4 +5,3 @@ D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.c
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.exe
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.pdb
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.Bioz.resources
-D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.csprojResolveAssemblyReference.cache

@@ -46,8 +46,7 @@ namespace ServicesBioZ
                 if (connSatus)
                     using (StreamWriter writer = new StreamWriter(filePath, true))
                     {
-                        writer.WriteLine("Machine is connected on" + "Date :" + objCZKEM.MachineNumber.ToString());
-                        writer.WriteLine("Machine is connected on" + "Date :" + DateTime.Now.ToString() + "status" + connSatus);                        
+                        writer.WriteLine("Machine is connected on" + "Número de Equipo :" + objCZKEM.MachineNumber.ToString());                       
                         writer.WriteLine(Environment.NewLine + "-----------------------------------------------------------------------------" + Environment.NewLine);
                         EventLog.WriteEntry("Machine is connected on" + "Date :" + DateTime.Now.ToString() + "Status: " + connSatus);
                     }
@@ -97,7 +96,7 @@ namespace ServicesBioZ
 
             using (StreamWriter writer = new StreamWriter(filePath, true))
             {
-                writer.WriteLine(" OnAttTrasactionEx Has been Triggered,Verified OK on" + "Date :" + "Enrollnumber" + EnrollNumber +"|"+ DateTime.Now.ToString());
+                writer.WriteLine(" OnAttTrasactionEx Has been Triggered,Verified OK on" + "Date :" + "Enrollnumber: " + EnrollNumber +"|"+ DateTime.Now.ToString());
                 writer.WriteLine(Environment.NewLine + "-----------------------------------------------------------------------------" + Environment.NewLine);
             }
                 PerInformixDB per = new PerInformixDB();

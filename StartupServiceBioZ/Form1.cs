@@ -15,6 +15,7 @@ namespace StartupServiceBioZ
         public Bioz()
         {
             InitializeComponent();
+            timer1.Enabled = true;
             string nombreServicio = "Servicio Bio Z";
             ServiceController sc = new ServiceController(nombreServicio);
             if (sc != null && sc.Status == ServiceControllerStatus.Running)         
@@ -98,6 +99,11 @@ namespace StartupServiceBioZ
             {
 
             }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label2.Text = DateTime.Now.ToString();
         }
     }
 }
