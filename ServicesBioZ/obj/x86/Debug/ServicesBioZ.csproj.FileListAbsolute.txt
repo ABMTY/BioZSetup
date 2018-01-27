@@ -1,0 +1,11 @@
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Debug\ServicesBioZ.exe.config
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Debug\ServicesBioZ.exe
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Debug\ServicesBioZ.pdb
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Debug\IBM.Data.Informix.dll
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Debug\System.Windows.Forms.dll
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\Interop.zkemkeeper.dll
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.csproj.ResolveComReference.cache
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.ProjectInstaller.resources
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.csproj.GenerateResource.Cache
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.exe
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.pdb

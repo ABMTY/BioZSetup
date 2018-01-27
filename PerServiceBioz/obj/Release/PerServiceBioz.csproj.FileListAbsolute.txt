@@ -1,0 +1,8 @@
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\bin\Release\PerServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\bin\Release\PerServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\bin\Release\EntServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\bin\Release\IBM.Data.Informix.dll
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\bin\Release\EntServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\obj\Release\PerServiceBioz.csprojResolveAssemblyReference.cache
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\obj\Release\PerServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\obj\Release\PerServiceBioz.pdb

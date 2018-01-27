@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
+using Enrollment;
 
 namespace StartupServiceBioZ
 {
@@ -15,7 +16,7 @@ namespace StartupServiceBioZ
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bioz());
+            Application.Run(new Menu());
         }
     }
 }

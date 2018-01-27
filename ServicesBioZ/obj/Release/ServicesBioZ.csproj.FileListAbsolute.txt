@@ -11,3 +11,14 @@ D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.ProjectInstaller.reso
 D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.csproj.GenerateResource.Cache
 D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.exe
 D:\BioZ\ServicesBioZ\ServicesBioZ\obj\Release\ServicesBioZ.pdb
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe.config
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\Release\ServicesBioZ.exe
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\Release\ServicesBioZ.pdb
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\Release\IBM.Data.Informix.dll
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\Release\System.Windows.Forms.dll
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\Interop.zkemkeeper.dll
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.csproj.ResolveComReference.cache
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.ProjectInstaller.resources
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.csproj.GenerateResource.Cache
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.exe
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.pdb

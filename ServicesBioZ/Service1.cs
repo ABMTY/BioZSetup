@@ -98,8 +98,9 @@ namespace ServicesBioZ
             {
                 writer.WriteLine(" OnAttTrasactionEx Has been Triggered,Verified OK on" + "Date :" + "Enrollnumber: " + EnrollNumber +"|"+ DateTime.Now.ToString());
                 writer.WriteLine(Environment.NewLine + "-----------------------------------------------------------------------------" + Environment.NewLine);
-            }
-                PerInformixDB per = new PerInformixDB();
+            }                       
+            //---------------------------------------------
+            PerInformixDB per = new PerInformixDB();
                 try
                 {
                     checkinout entidad = new checkinout();

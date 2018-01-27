@@ -20,10 +20,6 @@ D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.pdb
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\ServicesBioZ.exe
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\ServicesBioZ.pdb
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\IBM.Data.Informix.dll
-D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\System.Net.Http.dll
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\System.Windows.Forms.dll
-D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\System.Net.Http.xml
-D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\es\System.Net.Http.resources.dll
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.ProjectInstaller.resources
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.csproj.GenerateResource.Cache
-D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.csprojResolveAssemblyReference.cache

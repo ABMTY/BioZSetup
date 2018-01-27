@@ -1,0 +1,5 @@
+D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\bin\Release\EntServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\bin\Release\EntServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.csprojResolveAssemblyReference.cache
