@@ -180,6 +180,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="biozattendance_Lgt_icon.ico" />
+    <Content Include="bioz_addfinger_BgZ_icon.ico" />
     <Content Include="img\BioZ.ico" />
     <Content Include="img\check_error.png" />
     <Content Include="img\check_sign.png" />
@@ -192,10 +194,8 @@
     <None Include="Resources\Error.jpeg" />
     <None Include="Resources\Sign.jpeg" />
     <None Include="img\digitalPersona.png" />
-    <Content Include="img\digitalPersonal.jpg" />
     <Content Include="img\IcoBioz.ico" />
     <None Include="img\zkteco.png" />
-    <None Include="img\zkteco.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CtrlServiceBioz\CtrlServiceBioz.csproj">
