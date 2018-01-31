@@ -28,3 +28,4 @@ D:\ServicioBioZ\ServicioBioZ\BioZFinger\bin\Release\EntServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\BioZFinger\bin\Release\PerServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.exe
 D:\ServicioBioZ\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.pdb
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.csprojResolveAssemblyReference.cache
