@@ -1,0 +1,15 @@
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.IntPoint: type is a value type.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.PolishExpression: type is sealed.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.DoubleRange: type is a value type.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.MessageTransferHandler: type is sealed.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.Point: type is a value type.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.IntRange: type is a value type.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.ThreadSafeRandom: type is sealed.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.Range: type is a value type.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.Parallel: type is sealed.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.SystemTools: type is sealed.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for AForge.DoublePoint: type is a value type.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>{D4933F01-4742-407D-982E-D47DDB340621}: type is not supported because of internal limitations.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate shim for AForge.MessageTransferHandler: type is a delegate.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate shim for AForge.Parallel+ForLoopBody: type is a delegate.
+D:\ServicioBioZ\ServicioBioZ\BioZFinger\Fakes\AForge.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>{D4933F01-4742-407D-982E-D47DDB340621}: type is not supported because of internal limitations.

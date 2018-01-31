@@ -1,0 +1,10 @@
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Debug\CtrlServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Debug\CtrlServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Debug\EntServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Debug\PerServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Debug\IBM.Data.Informix.dll
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Debug\EntServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Debug\PerServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\obj\Debug\CtrlServiceBioz.csprojResolveAssemblyReference.cache
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\obj\Debug\CtrlServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\obj\Debug\CtrlServiceBioz.pdb

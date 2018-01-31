@@ -118,9 +118,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="base64hasher.cs" />
-    <Compile Include="Control\CtrlCheckinout.cs" />
-    <Compile Include="Control\CtrlEmpleadoHuella.cs" />
-    <Compile Include="Control\CtrlEmpleados.cs" />
     <Compile Include="InstallerStartup.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -201,13 +198,13 @@
     <None Include="img\zkteco.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CtrlServiceBioz\CtrlServiceBioz.csproj">
+      <Project>{d05dfa96-86bf-4d57-81d8-6cc81f97d2fd}</Project>
+      <Name>CtrlServiceBioz</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EntServiceBioz\EntServiceBioz.csproj">
       <Project>{cddfa8fa-ea0c-4f1d-be27-ec20a1cb3a4e}</Project>
       <Name>EntServiceBioz</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PerServiceBioz\PerServiceBioz.csproj">
-      <Project>{2069d819-ddd5-4179-b673-48ea7f957c34}</Project>
-      <Name>PerServiceBioz</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

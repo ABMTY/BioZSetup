@@ -9,7 +9,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Windows.Forms;
 
-namespace StartupServiceBioZ
+namespace CtrlServiceBioz
 {
     public partial class Bioz : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace StartupServiceBioZ
+﻿namespace CtrlServiceBioz
 {
     partial class InstallerStartup
     {

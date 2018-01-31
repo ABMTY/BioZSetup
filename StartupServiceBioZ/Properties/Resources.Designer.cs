@@ -93,59 +93,9 @@ namespace StartupServiceBioZ.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap Denegado2 {
-            get {
-                object obj = ResourceManager.GetObject("Denegado2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap digitalPersona {
             get {
                 object obj = ResourceManager.GetObject("digitalPersona", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap digitalPersonal {
-            get {
-                object obj = ResourceManager.GetObject("digitalPersonal", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap Error {
-            get {
-                object obj = ResourceManager.GetObject("Error", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap Sign {
-            get {
-                object obj = ResourceManager.GetObject("Sign", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap verificar {
-            get {
-                object obj = ResourceManager.GetObject("verificar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -174,16 +124,6 @@ namespace StartupServiceBioZ.Properties {
         public static System.Drawing.Bitmap zkteco {
             get {
                 object obj = ResourceManager.GetObject("zkteco", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap zkteco1 {
-            get {
-                object obj = ResourceManager.GetObject("zkteco1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

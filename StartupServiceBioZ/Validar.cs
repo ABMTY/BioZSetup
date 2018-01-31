@@ -6,7 +6,6 @@ using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
 using System.Linq;
-using StartupServiceBioZ.Control;
 using AForge.Video.DirectShow;
 using EntServiceBioz.Entidad;
 using System.Threading;
@@ -15,6 +14,7 @@ using System.Net.Sockets;
 using Enrollment;
 using System.Runtime.InteropServices;
 using System.Media;
+using CtrlServiceBioz.Control;
 
 namespace Enrollment {
     /*
@@ -372,7 +372,7 @@ namespace Enrollment {
                                 //pcbCamara.Image = Image.FromStream(ms, true);
                                 empleadoActual = new EntEmpleado();
                                 empleadoActual = u;
-                                pcbCamara.Image = StartupServiceBioZ.Properties.Resources.verificar;
+                                pcbCamara.Image = StartupServiceBioZ.Properties.Resources.check_sign;
                                 SoundPlayer simpleSound = new SoundPlayer(StartupServiceBioZ.Properties.Resources.Windows_Logon);
                                 simpleSound.Play();
                                 Thread.Sleep(TimeSpan.FromSeconds(2));
@@ -407,7 +407,7 @@ namespace Enrollment {
             {
                 try
                 {
-                    pcbCamara.Image = StartupServiceBioZ.Properties.Resources.Denegado2;
+                    pcbCamara.Image = StartupServiceBioZ.Properties.Resources.check_error;
                     Thread.Sleep(TimeSpan.FromMilliseconds(500));
                     pcbCamara.Image = StartupServiceBioZ.Properties.Resources.computer;
                     SoundPlayer simpleSound = new SoundPlayer(StartupServiceBioZ.Properties.Resources.Windows_Hardware_Fail);
@@ -482,7 +482,7 @@ namespace Enrollment {
         {
             // FrameFinal.Stop() detiene el video de la camara, para dejar de consumir memoria
             FrameFinal.Stop();
-            StartupServiceBioZ.Menu menu = new StartupServiceBioZ.Menu();
+            CtrlServiceBioz.Menu menu = new CtrlServiceBioz.Menu();
             menu.Visible = true;
             // Cerramos la aplicacion
             //Application.Exit();

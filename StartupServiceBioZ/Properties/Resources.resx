@@ -118,20 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="digitalPersonal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\digitalPersonal.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Windows_Hardware_Fail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Windows Hardware Fail.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sign.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Error.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="check_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\check_sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Windows_Logon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Windows Logon.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="check_error" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\check_error.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="check_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\check_sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="computer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\computer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -140,21 +137,6 @@
     <value>..\img\digitalPersona.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="zkteco" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\zkteco.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="zkteco1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\zkteco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Denegado2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Denegado2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="verificar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\verificar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Windows_Hardware_Fail" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Windows Hardware Fail.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Windows_Logon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Windows Logon.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

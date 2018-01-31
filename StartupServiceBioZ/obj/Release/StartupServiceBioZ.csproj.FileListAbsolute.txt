@@ -15,10 +15,12 @@ D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\bin\Release\IBM.Data.Informix.dl
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\bin\Release\EntServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\bin\Release\PerServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.csprojResolveAssemblyReference.cache
-D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.Bioz.resources
-D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.Menu.resources
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.Properties.Resources.resources
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\Enrollment.Validar.resources
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.csproj.GenerateResource.Cache
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.exe
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.pdb
+D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\bin\Release\CtrlServiceBioz.dll
+D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\bin\Release\CtrlServiceBioz.pdb
+D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\CtrlServiceBioz.Bioz.resources
+D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\CtrlServiceBioz.Menu.resources

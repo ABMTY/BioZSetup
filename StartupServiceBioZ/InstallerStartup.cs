@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
 
-namespace StartupServiceBioZ
+namespace CtrlServiceBioz
 {
     [RunInstaller(true)]
     public partial class InstallerStartup : System.Configuration.Install.Installer

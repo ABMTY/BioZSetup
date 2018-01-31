@@ -1,4 +1,4 @@
-﻿namespace StartupServiceBioZ
+﻿namespace CtrlServiceBioz
 {
     partial class Menu
     {
@@ -72,8 +72,8 @@
             // 
             // pbxZkteco
             // 
-            this.pbxZkteco.ErrorImage = global::StartupServiceBioZ.Properties.Resources.digitalPersonal;
-            this.pbxZkteco.Image = global::StartupServiceBioZ.Properties.Resources.zkteco1;
+            this.pbxZkteco.ErrorImage = global::StartupServiceBioZ.Properties.Resources.digitalPersona;
+            this.pbxZkteco.Image = global::StartupServiceBioZ.Properties.Resources.zkteco;
             this.pbxZkteco.InitialImage = null;
             this.pbxZkteco.Location = new System.Drawing.Point(156, 80);
             this.pbxZkteco.Name = "pbxZkteco";

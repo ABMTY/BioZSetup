@@ -22,3 +22,4 @@ D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.ProjectInstal
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.csproj.GenerateResource.Cache
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.exe
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.pdb
+D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\Release\ServicesBioZ.csprojResolveAssemblyReference.cache

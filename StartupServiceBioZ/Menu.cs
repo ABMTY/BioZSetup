@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace StartupServiceBioZ
+namespace CtrlServiceBioz
 {
     public partial class Menu : Form
     {
