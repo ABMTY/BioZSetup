@@ -95,10 +95,7 @@ namespace BioZFinger
             }
         }
 
-        // Clase utilizada para almacenar la informacion del Usuario, tabla "usuarios"
-
-        
-
+        // Clase utilizada para almacenar la informacion del Usuario, tabla "usuarios"  
         // Este método carga todos los Usuarios de la base de datos
         private void ObtenerEmpleados() {
 
@@ -115,8 +112,6 @@ namespace BioZFinger
         }
 
         // Clase utilizada para almacenar la información de la huella, tabla "huellas"
-
-
         // Todas las huellas del sistema se encargan en esta lista, para compararlas con la del usuario que pone su dedo.
         List<EmpleadoHuella> ListaHuellas = new List<EmpleadoHuella>();
 
@@ -319,13 +314,23 @@ namespace BioZFinger
                         
                         try
                         {
-                            pcbCamara.Image = null;
-                            // Convert base 64 string to byte[]
-                            byte[] imageBytes = Convert.FromBase64String(u.imagen);
-                            // Convert byte[] to Image
-                            using (var ms = new MemoryStream(imageBytes, 0, imageBytes.Length))
+                            if (u.imagen != string.Empty)
                             {
-                                pcbCamara.Image = Image.FromStream(ms, true);                                
+                                pcbCamara.Image = null;
+                                // Convert base 64 string to byte[]
+                                byte[] imageBytes = Convert.FromBase64String(u.imagen);
+                                // Convert byte[] to Image
+                                using (var ms = new MemoryStream(imageBytes, 0, imageBytes.Length))
+                                {
+                                    pcbCamara.Image = Image.FromStream(ms, true);
+                                }
+                            }
+                            else
+                            {
+                                pcbCamara.Image = null;
+                                pcbCamara.Image= Properties.Resources.NoPicture;                               
+                                pcbCamara.Refresh();
+                                pcbCamara.Visible = true;
                             }
                            
                         }
