@@ -52,7 +52,7 @@
     <StartupObject />
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icono.ico</ApplicationIcon>
+    <ApplicationIcon>bioz_addfinger_BgZ_icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AForge">
@@ -119,6 +119,11 @@
     <Compile Include="frmListaEmpleados.Designer.cs">
       <DependentUpon>frmListaEmpleados.cs</DependentUpon>
     </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Registro.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -148,14 +153,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="Validar.resx">
       <DependentUpon>Validar.cs</DependentUpon>
     </EmbeddedResource>
@@ -171,13 +171,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="logo_oficial_bioz.png" />
-    <None Include="Denegado2.png" />
-    <Content Include="icono.ico" />
-    <None Include="NoFinger.png" />
+    <None Include="Images\logo_oficial_bioz.png" />
+    <None Include="Images\NoFinger.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
@@ -200,6 +200,11 @@
       <Project>{CDDFA8FA-EA0C-4F1D-BE27-EC20A1CB3A4E}</Project>
       <Name>EntServiceBioz</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bioz_addfinger_BgZ_icon.ico" />
+    <Content Include="Images\bioz_addfinger_BgZ_icon.ico" />
+    <Content Include="Images\NoPicture.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
