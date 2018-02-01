@@ -58,7 +58,6 @@ namespace BioZFinger
                 cmbDispositivos.SelectedIndex = 0;
                 // Inicializamos el dispositivo
                 FrameFinal = new VideoCaptureDevice();
-
                 // Y creamos el handler para comenzar a hacer el stream de video
                 try
                 {
@@ -79,8 +78,6 @@ namespace BioZFinger
                 listaEmpleados.MessageBoxShow("Conecte el Dispositivo","Alerta");
                 this.Close();
             }
-
-            //MessageBox.Show(Id_Empleado);
         }
 
         public void BuscarDispositivos()
@@ -245,6 +242,20 @@ namespace BioZFinger
         {
             GeneralUtility.Form_MouseDown();
             GeneralUtility.SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void btnCambiarCamara_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                FrameFinal = new VideoCaptureDevice(ListaDispositivos[cmbDispositivos.SelectedIndex].MonikerString);
+                FrameFinal.NewFrame += FrameFinal_NewFrame;
+                FrameFinal.Start();
+            }
+            catch (Exception ex)
+            {
+                //MessageBox.Show("Error " + ex.Message);
+            }
         }
 
         public Image CambiarTamanoImagen(Image pImagen, int pAncho, int pAlto)

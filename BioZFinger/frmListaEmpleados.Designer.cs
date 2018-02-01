@@ -52,7 +52,7 @@
             this.dgvEmpleados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvEmpleados.Location = new System.Drawing.Point(12, 67);
             this.dgvEmpleados.Name = "dgvEmpleados";
-            this.dgvEmpleados.Size = new System.Drawing.Size(1113, 440);
+            this.dgvEmpleados.Size = new System.Drawing.Size(977, 440);
             this.dgvEmpleados.TabIndex = 0;
             this.dgvEmpleados.Click += new System.EventHandler(this.dgvEmpleados_Click);
             // 
@@ -60,11 +60,11 @@
             // 
             this.lblStatus.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.lblStatus.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.lblStatus.Location = new System.Drawing.Point(0, 573);
+            this.lblStatus.Location = new System.Drawing.Point(0, 586);
             this.lblStatus.Margin = new System.Windows.Forms.Padding(3, 5, 3, 0);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Padding = new System.Windows.Forms.Padding(0, 5, 0, 5);
-            this.lblStatus.Size = new System.Drawing.Size(1135, 25);
+            this.lblStatus.Size = new System.Drawing.Size(1001, 25);
             this.lblStatus.TabIndex = 7;
             this.lblStatus.Text = "lblEstatus";
             // 
@@ -73,7 +73,7 @@
             this.btnRegistrarHuella.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
             this.btnRegistrarHuella.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegistrarHuella.ForeColor = System.Drawing.Color.White;
-            this.btnRegistrarHuella.Location = new System.Drawing.Point(12, 523);
+            this.btnRegistrarHuella.Location = new System.Drawing.Point(14, 527);
             this.btnRegistrarHuella.Name = "btnRegistrarHuella";
             this.btnRegistrarHuella.Size = new System.Drawing.Size(123, 33);
             this.btnRegistrarHuella.TabIndex = 9;
@@ -87,7 +87,7 @@
             this.lblCloseButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lblCloseButton.Font = new System.Drawing.Font("Segoe UI Semilight", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCloseButton.ForeColor = System.Drawing.Color.White;
-            this.lblCloseButton.Location = new System.Drawing.Point(1078, 5);
+            this.lblCloseButton.Location = new System.Drawing.Point(946, 5);
             this.lblCloseButton.Name = "lblCloseButton";
             this.lblCloseButton.Size = new System.Drawing.Size(28, 25);
             this.lblCloseButton.TabIndex = 95;
@@ -116,7 +116,7 @@
             this.pnlTituloForm.Controls.Add(this.label3);
             this.pnlTituloForm.Location = new System.Drawing.Point(12, 12);
             this.pnlTituloForm.Name = "pnlTituloForm";
-            this.pnlTituloForm.Size = new System.Drawing.Size(1113, 38);
+            this.pnlTituloForm.Size = new System.Drawing.Size(977, 38);
             this.pnlTituloForm.TabIndex = 92;
             this.pnlTituloForm.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTituloForm_MouseDown);
             // 
@@ -125,7 +125,7 @@
             this.lblTituloBuscar.AutoSize = true;
             this.lblTituloBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTituloBuscar.ForeColor = System.Drawing.Color.White;
-            this.lblTituloBuscar.Location = new System.Drawing.Point(695, 10);
+            this.lblTituloBuscar.Location = new System.Drawing.Point(563, 10);
             this.lblTituloBuscar.Name = "lblTituloBuscar";
             this.lblTituloBuscar.Size = new System.Drawing.Size(52, 17);
             this.lblTituloBuscar.TabIndex = 94;
@@ -134,7 +134,7 @@
             // txtBuscarEmpleado
             // 
             this.txtBuscarEmpleado.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBuscarEmpleado.Location = new System.Drawing.Point(753, 9);
+            this.txtBuscarEmpleado.Location = new System.Drawing.Point(621, 9);
             this.txtBuscarEmpleado.Name = "txtBuscarEmpleado";
             this.txtBuscarEmpleado.Size = new System.Drawing.Size(274, 21);
             this.txtBuscarEmpleado.TabIndex = 95;
@@ -145,7 +145,7 @@
             this.btnValidarHuella.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
             this.btnValidarHuella.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnValidarHuella.ForeColor = System.Drawing.Color.White;
-            this.btnValidarHuella.Location = new System.Drawing.Point(255, 523);
+            this.btnValidarHuella.Location = new System.Drawing.Point(257, 527);
             this.btnValidarHuella.Name = "btnValidarHuella";
             this.btnValidarHuella.Size = new System.Drawing.Size(117, 33);
             this.btnValidarHuella.TabIndex = 93;
@@ -158,7 +158,7 @@
             this.btnCapturarFoto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
             this.btnCapturarFoto.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCapturarFoto.ForeColor = System.Drawing.Color.White;
-            this.btnCapturarFoto.Location = new System.Drawing.Point(137, 523);
+            this.btnCapturarFoto.Location = new System.Drawing.Point(139, 527);
             this.btnCapturarFoto.Name = "btnCapturarFoto";
             this.btnCapturarFoto.Size = new System.Drawing.Size(117, 33);
             this.btnCapturarFoto.TabIndex = 94;
@@ -171,7 +171,7 @@
             this.btnRefrescar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
             this.btnRefrescar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRefrescar.ForeColor = System.Drawing.Color.White;
-            this.btnRefrescar.Location = new System.Drawing.Point(378, 523);
+            this.btnRefrescar.Location = new System.Drawing.Point(380, 527);
             this.btnRefrescar.Name = "btnRefrescar";
             this.btnRefrescar.Size = new System.Drawing.Size(117, 33);
             this.btnRefrescar.TabIndex = 95;
@@ -182,7 +182,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::BioZFinger.Properties.Resources.logo_oficial_bioz;
-            this.pictureBox1.Location = new System.Drawing.Point(982, 513);
+            this.pictureBox1.Location = new System.Drawing.Point(843, 513);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(146, 57);
             this.pictureBox1.TabIndex = 103;
@@ -194,7 +194,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semilight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.label1.Location = new System.Drawing.Point(945, 564);
+            this.label1.Location = new System.Drawing.Point(806, 564);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(181, 21);
             this.label1.TabIndex = 96;
@@ -207,7 +207,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1135, 598);
+            this.ClientSize = new System.Drawing.Size(1001, 611);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnRefrescar);

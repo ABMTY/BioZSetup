@@ -39,6 +39,8 @@
             this.pcbFoto = new System.Windows.Forms.PictureBox();
             this.pcbFotoRecortada = new System.Windows.Forms.PictureBox();
             this.btnActivarCamara = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnCambiarCamara = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pcbCamara)).BeginInit();
             this.pnlTituloForm.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pcbFoto)).BeginInit();
@@ -59,11 +61,10 @@
             // 
             this.cmbDispositivos.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbDispositivos.FormattingEnabled = true;
-            this.cmbDispositivos.Location = new System.Drawing.Point(13, 581);
+            this.cmbDispositivos.Location = new System.Drawing.Point(86, 409);
             this.cmbDispositivos.Name = "cmbDispositivos";
-            this.cmbDispositivos.Size = new System.Drawing.Size(244, 29);
+            this.cmbDispositivos.Size = new System.Drawing.Size(420, 29);
             this.cmbDispositivos.TabIndex = 76;
-            this.cmbDispositivos.Visible = false;
             // 
             // btnGuardarFoto
             // 
@@ -71,7 +72,7 @@
             this.btnGuardarFoto.Enabled = false;
             this.btnGuardarFoto.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGuardarFoto.ForeColor = System.Drawing.Color.White;
-            this.btnGuardarFoto.Location = new System.Drawing.Point(512, 268);
+            this.btnGuardarFoto.Location = new System.Drawing.Point(512, 279);
             this.btnGuardarFoto.Name = "btnGuardarFoto";
             this.btnGuardarFoto.Size = new System.Drawing.Size(189, 39);
             this.btnGuardarFoto.TabIndex = 96;
@@ -112,7 +113,7 @@
             this.pnlTituloForm.Controls.Add(this.label3);
             this.pnlTituloForm.Location = new System.Drawing.Point(4, 6);
             this.pnlTituloForm.Name = "pnlTituloForm";
-            this.pnlTituloForm.Size = new System.Drawing.Size(698, 38);
+            this.pnlTituloForm.Size = new System.Drawing.Size(697, 38);
             this.pnlTituloForm.TabIndex = 97;
             this.pnlTituloForm.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTituloForm_MouseDown);
             // 
@@ -132,7 +133,7 @@
             this.btnCapturarFoto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
             this.btnCapturarFoto.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCapturarFoto.ForeColor = System.Drawing.Color.White;
-            this.btnCapturarFoto.Location = new System.Drawing.Point(512, 316);
+            this.btnCapturarFoto.Location = new System.Drawing.Point(512, 319);
             this.btnCapturarFoto.Name = "btnCapturarFoto";
             this.btnCapturarFoto.Size = new System.Drawing.Size(189, 39);
             this.btnCapturarFoto.TabIndex = 99;
@@ -159,7 +160,7 @@
             this.pcbFotoRecortada.BackColor = System.Drawing.Color.AliceBlue;
             this.pcbFotoRecortada.Location = new System.Drawing.Point(512, 69);
             this.pcbFotoRecortada.Name = "pcbFotoRecortada";
-            this.pcbFotoRecortada.Size = new System.Drawing.Size(189, 187);
+            this.pcbFotoRecortada.Size = new System.Drawing.Size(189, 205);
             this.pcbFotoRecortada.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pcbFotoRecortada.TabIndex = 101;
             this.pcbFotoRecortada.TabStop = false;
@@ -170,7 +171,7 @@
             this.btnActivarCamara.Enabled = false;
             this.btnActivarCamara.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnActivarCamara.ForeColor = System.Drawing.Color.White;
-            this.btnActivarCamara.Location = new System.Drawing.Point(512, 364);
+            this.btnActivarCamara.Location = new System.Drawing.Point(512, 359);
             this.btnActivarCamara.Name = "btnActivarCamara";
             this.btnActivarCamara.Size = new System.Drawing.Size(189, 39);
             this.btnActivarCamara.TabIndex = 102;
@@ -178,13 +179,39 @@
             this.btnActivarCamara.UseVisualStyleBackColor = false;
             this.btnActivarCamara.Click += new System.EventHandler(this.btnActivarCamara_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.Location = new System.Drawing.Point(12, 417);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(68, 15);
+            this.label1.TabIndex = 103;
+            this.label1.Text = "Dispositivo";
+            // 
+            // btnCambiarCamara
+            // 
+            this.btnCambiarCamara.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
+            this.btnCambiarCamara.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCambiarCamara.ForeColor = System.Drawing.Color.White;
+            this.btnCambiarCamara.Location = new System.Drawing.Point(511, 399);
+            this.btnCambiarCamara.Name = "btnCambiarCamara";
+            this.btnCambiarCamara.Size = new System.Drawing.Size(189, 39);
+            this.btnCambiarCamara.TabIndex = 104;
+            this.btnCambiarCamara.Text = "Cambiar Camara";
+            this.btnCambiarCamara.UseVisualStyleBackColor = false;
+            this.btnCambiarCamara.Click += new System.EventHandler(this.btnCambiarCamara_Click);
+            // 
             // frmCapturarFoto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnableAllowFocusChange;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(708, 411);
+            this.ClientSize = new System.Drawing.Size(707, 442);
+            this.Controls.Add(this.btnCambiarCamara);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnActivarCamara);
             this.Controls.Add(this.pcbFotoRecortada);
             this.Controls.Add(this.btnCapturarFoto);
@@ -223,5 +250,7 @@
         private System.Windows.Forms.PictureBox pcbFoto;
         private System.Windows.Forms.PictureBox pcbFotoRecortada;
         private System.Windows.Forms.Button btnActivarCamara;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnCambiarCamara;
     }
 }
