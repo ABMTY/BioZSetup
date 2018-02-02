@@ -16,7 +16,8 @@ namespace BioZFinger
     public partial class frmListaEmpleados : Form
     {
         CtrlEmpleados ctrlEmpleados = new CtrlEmpleados();
-        public string Id_Empleado,Nombre_Empleado;
+        public string Id_Empleado,Nombre_Empleado,NombreEmpresa;
+        public int Id_Empresa;
         private DataTable dtEmpleados;
         private DataView dvEmpleados;
         public frmListaEmpleados()
@@ -30,6 +31,7 @@ namespace BioZFinger
         {
             try
             {
+                lblTituloEmpresa.Text = "Empleados de "+ frmAcceso.NombreEmpresa;                
                 HabilitarBotones(false);
                 ObtenerListaEmpleados();
             }
@@ -117,7 +119,7 @@ namespace BioZFinger
         {
             EtiquetaMensaje(string.Empty, true);
             List<EntEmpleado> ListaEmpleados = new List<EntEmpleado>();
-            ListaEmpleados = ctrlEmpleados.ObtenerTodos();
+            ListaEmpleados = ctrlEmpleados.ObtenerPorEmpresa(frmAcceso.Id_Empresa);
 
 
             if (ListaEmpleados != null && ListaEmpleados.Count > 0)

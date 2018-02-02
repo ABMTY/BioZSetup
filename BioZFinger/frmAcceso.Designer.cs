@@ -40,6 +40,8 @@
             this.lblStatus = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.lblTituloEmpresa = new System.Windows.Forms.Label();
+            this.cmbEmpresa = new System.Windows.Forms.ComboBox();
             this.pnlTituloAcceso.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -50,7 +52,7 @@
             this.lblCloseButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lblCloseButton.Font = new System.Drawing.Font("Segoe UI Semilight", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCloseButton.ForeColor = System.Drawing.Color.White;
-            this.lblCloseButton.Location = new System.Drawing.Point(442, 3);
+            this.lblCloseButton.Location = new System.Drawing.Point(574, 2);
             this.lblCloseButton.Name = "lblCloseButton";
             this.lblCloseButton.Size = new System.Drawing.Size(28, 25);
             this.lblCloseButton.TabIndex = 92;
@@ -66,7 +68,7 @@
             this.pnlTituloAcceso.Controls.Add(this.label3);
             this.pnlTituloAcceso.Location = new System.Drawing.Point(4, 6);
             this.pnlTituloAcceso.Name = "pnlTituloAcceso";
-            this.pnlTituloAcceso.Size = new System.Drawing.Size(474, 38);
+            this.pnlTituloAcceso.Size = new System.Drawing.Size(605, 38);
             this.pnlTituloAcceso.TabIndex = 91;
             this.pnlTituloAcceso.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTituloAcceso_MouseDown);
             // 
@@ -87,7 +89,7 @@
             this.lblUsuario.BackColor = System.Drawing.Color.Transparent;
             this.lblUsuario.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUsuario.ForeColor = System.Drawing.Color.Black;
-            this.lblUsuario.Location = new System.Drawing.Point(238, 63);
+            this.lblUsuario.Location = new System.Drawing.Point(243, 99);
             this.lblUsuario.Name = "lblUsuario";
             this.lblUsuario.Size = new System.Drawing.Size(56, 19);
             this.lblUsuario.TabIndex = 95;
@@ -99,7 +101,7 @@
             this.lblContaseña.BackColor = System.Drawing.Color.Transparent;
             this.lblContaseña.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblContaseña.ForeColor = System.Drawing.Color.Black;
-            this.lblContaseña.Location = new System.Drawing.Point(220, 99);
+            this.lblContaseña.Location = new System.Drawing.Point(225, 133);
             this.lblContaseña.Name = "lblContaseña";
             this.lblContaseña.Size = new System.Drawing.Size(74, 19);
             this.lblContaseña.TabIndex = 96;
@@ -108,18 +110,18 @@
             // txtUsuario
             // 
             this.txtUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUsuario.Location = new System.Drawing.Point(305, 61);
+            this.txtUsuario.Location = new System.Drawing.Point(305, 97);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(161, 23);
+            this.txtUsuario.Size = new System.Drawing.Size(295, 23);
             this.txtUsuario.TabIndex = 97;
             // 
             // txtContaseña
             // 
             this.txtContaseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtContaseña.Location = new System.Drawing.Point(305, 95);
+            this.txtContaseña.Location = new System.Drawing.Point(305, 131);
             this.txtContaseña.Name = "txtContaseña";
             this.txtContaseña.PasswordChar = '*';
-            this.txtContaseña.Size = new System.Drawing.Size(161, 23);
+            this.txtContaseña.Size = new System.Drawing.Size(295, 23);
             this.txtContaseña.TabIndex = 98;
             this.txtContaseña.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtContaseña_KeyPress);
             // 
@@ -128,7 +130,7 @@
             this.btnAccesar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
             this.btnAccesar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAccesar.ForeColor = System.Drawing.Color.White;
-            this.btnAccesar.Location = new System.Drawing.Point(387, 135);
+            this.btnAccesar.Location = new System.Drawing.Point(521, 176);
             this.btnAccesar.Name = "btnAccesar";
             this.btnAccesar.Size = new System.Drawing.Size(79, 28);
             this.btnAccesar.TabIndex = 99;
@@ -141,7 +143,7 @@
             this.btnCancelar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelar.ForeColor = System.Drawing.Color.White;
-            this.btnCancelar.Location = new System.Drawing.Point(304, 135);
+            this.btnCancelar.Location = new System.Drawing.Point(438, 176);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(79, 28);
             this.btnCancelar.TabIndex = 100;
@@ -154,11 +156,11 @@
             this.lblStatus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(240)))), ((int)(((byte)(245)))));
             this.lblStatus.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.lblStatus.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.lblStatus.Location = new System.Drawing.Point(0, 179);
+            this.lblStatus.Location = new System.Drawing.Point(0, 224);
             this.lblStatus.Margin = new System.Windows.Forms.Padding(3, 5, 3, 0);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Padding = new System.Windows.Forms.Padding(0, 5, 0, 5);
-            this.lblStatus.Size = new System.Drawing.Size(481, 25);
+            this.lblStatus.Size = new System.Drawing.Size(612, 25);
             this.lblStatus.TabIndex = 101;
             // 
             // pictureBox1
@@ -181,12 +183,35 @@
             this.label1.TabIndex = 93;
             this.label1.Text = "Registro de Huella y Foto";
             // 
+            // lblTituloEmpresa
+            // 
+            this.lblTituloEmpresa.AutoSize = true;
+            this.lblTituloEmpresa.BackColor = System.Drawing.Color.Transparent;
+            this.lblTituloEmpresa.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTituloEmpresa.ForeColor = System.Drawing.Color.Black;
+            this.lblTituloEmpresa.Location = new System.Drawing.Point(238, 62);
+            this.lblTituloEmpresa.Name = "lblTituloEmpresa";
+            this.lblTituloEmpresa.Size = new System.Drawing.Size(61, 19);
+            this.lblTituloEmpresa.TabIndex = 103;
+            this.lblTituloEmpresa.Text = "Empresa";
+            // 
+            // cmbEmpresa
+            // 
+            this.cmbEmpresa.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbEmpresa.FormattingEnabled = true;
+            this.cmbEmpresa.Location = new System.Drawing.Point(305, 62);
+            this.cmbEmpresa.Name = "cmbEmpresa";
+            this.cmbEmpresa.Size = new System.Drawing.Size(295, 24);
+            this.cmbEmpresa.TabIndex = 104;
+            // 
             // frmAcceso
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(481, 204);
+            this.ClientSize = new System.Drawing.Size(612, 249);
+            this.Controls.Add(this.cmbEmpresa);
+            this.Controls.Add(this.lblTituloEmpresa);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblStatus);
@@ -203,6 +228,7 @@
             this.Name = "frmAcceso";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmAcceso";
+            this.Load += new System.EventHandler(this.frmAcceso_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.frmAcceso_MouseDown);
             this.pnlTituloAcceso.ResumeLayout(false);
             this.pnlTituloAcceso.PerformLayout();
@@ -226,5 +252,7 @@
         private System.Windows.Forms.Label lblStatus;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblTituloEmpresa;
+        private System.Windows.Forms.ComboBox cmbEmpresa;
     }
 }

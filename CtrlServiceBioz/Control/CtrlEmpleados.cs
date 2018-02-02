@@ -22,6 +22,12 @@ namespace CtrlServiceBioz.Control
         {
             return (List<EntEmpleado>)new PerEmpleados().ObtenerTodos();
         }
+
+        public List<EntEmpleado> ObtenerPorEmpresa(int id_empresa)
+        {
+            return (List<EntEmpleado>)new PerEmpleados().ObtenerPorEmpresa(id_empresa);
+        }
+
         public EntEmpleado Obtener(int Id_RolesVista)
         {
             return (EntEmpleado)new PerEmpleados().Obtener(Id_RolesVista);

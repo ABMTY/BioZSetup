@@ -16,10 +16,25 @@ namespace BioZFinger
     public partial class frmAcceso : Form
     {
         CtrlUsuarios ctrlUsuarios = new CtrlUsuarios();
+        CtrlEmpresa ctrlEmpresa = new CtrlEmpresa();
+        public static string NombreEmpresa;
+        public static int Id_Empresa;
         public frmAcceso()
         {
             InitializeComponent();
         }
+
+        //public int Id_Empresa()
+        //{
+        //    int IdEmpresa = ((EntServiceBioz.Entidad.EntEmpresa)cmbEmpresa.SelectedItem).id_empresa;
+        //    return IdEmpresa; 
+        //}
+
+        //public string Empresa()
+        //{
+        //    string Nombre = ((EntServiceBioz.Entidad.EntEmpresa)cmbEmpresa.SelectedItem).;
+        //    return Nombre;
+        //}
 
         private void lblCloseButton_Click(object sender, EventArgs e)
         {
@@ -41,7 +56,9 @@ namespace BioZFinger
         private void btnAccesar_Click(object sender, EventArgs e)
         {
             try
-            {
+            {                
+                Id_Empresa = ((EntServiceBioz.Entidad.EntEmpresa)cmbEmpresa.SelectedItem).id_empresa;
+                NombreEmpresa = ((EntServiceBioz.Entidad.EntEmpresa)cmbEmpresa.SelectedItem).razon_social.ToString();
                 ValidarUsuario();
             }
             catch (Exception ex)
@@ -83,7 +100,15 @@ namespace BioZFinger
             return Acceso;
         }
 
-       
+        private void ObtenerEmpresas()
+        {
+            List<EntEmpresa> listaEmpresa = new List<EntEmpresa>();
+            listaEmpresa = ctrlEmpresa.ObtenerTodos();
+            cmbEmpresa.DataSource = listaEmpresa;           
+            cmbEmpresa.DisplayMember = "razon_social";
+            cmbEmpresa.ValueMember = "id_empresa";
+            cmbEmpresa.SelectedIndex = -1;
+        }       
 
         public void EtiquetaMensaje(string message, bool type)
         {
@@ -128,6 +153,11 @@ namespace BioZFinger
                     EtiquetaMensaje("No hay conexión con la Base de Datos", false);
                 }
             }
+        }
+
+        private void frmAcceso_Load(object sender, EventArgs e)
+        {            
+            ObtenerEmpresas();
         }
     }
 }

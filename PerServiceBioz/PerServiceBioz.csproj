@@ -51,6 +51,7 @@
     <Compile Include="Persistencia\PerCkeckinout.cs" />
     <Compile Include="Persistencia\PerEmpleadoHuella.cs" />
     <Compile Include="Persistencia\PerEmpleados.cs" />
+    <Compile Include="Persistencia\PerEmpresa.cs" />
     <Compile Include="Persistencia\Persistencia.cs" />
     <Compile Include="Persistencia\PerUsuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

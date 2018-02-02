@@ -43,6 +43,7 @@
     <Compile Include="Control\CtrlCheckinout.cs" />
     <Compile Include="Control\CtrlEmpleadoHuella.cs" />
     <Compile Include="Control\CtrlEmpleados.cs" />
+    <Compile Include="Control\CtrlEmpresa.cs" />
     <Compile Include="Control\CtrlUsuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

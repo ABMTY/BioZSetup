@@ -46,6 +46,7 @@
     <Compile Include="Entidad\Chekinout.cs" />
     <Compile Include="Entidad\EmpleadoHuella.cs" />
     <Compile Include="Entidad\EntEmpleado.cs" />
+    <Compile Include="Entidad\EntEmpresa.cs" />
     <Compile Include="Entidad\EntUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

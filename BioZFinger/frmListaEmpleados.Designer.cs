@@ -32,7 +32,7 @@
             this.lblStatus = new System.Windows.Forms.Label();
             this.btnRegistrarHuella = new System.Windows.Forms.Button();
             this.lblCloseButton = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lblTituloEmpresa = new System.Windows.Forms.Label();
             this.pnlTituloForm = new System.Windows.Forms.Panel();
             this.lblTituloBuscar = new System.Windows.Forms.Label();
             this.txtBuscarEmpleado = new System.Windows.Forms.TextBox();
@@ -94,16 +94,16 @@
             this.lblCloseButton.Text = "✕";
             this.lblCloseButton.Click += new System.EventHandler(this.lblCloseButton_Click);
             // 
-            // label3
+            // lblTituloEmpresa
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Segoe UI Semilight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(3, 5);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(141, 21);
-            this.label3.TabIndex = 91;
-            this.label3.Text = "Lista de Empleados";
+            this.lblTituloEmpresa.AutoSize = true;
+            this.lblTituloEmpresa.Font = new System.Drawing.Font("Segoe UI Semilight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTituloEmpresa.ForeColor = System.Drawing.Color.White;
+            this.lblTituloEmpresa.Location = new System.Drawing.Point(3, 5);
+            this.lblTituloEmpresa.Name = "lblTituloEmpresa";
+            this.lblTituloEmpresa.Size = new System.Drawing.Size(141, 21);
+            this.lblTituloEmpresa.TabIndex = 91;
+            this.lblTituloEmpresa.Text = "Lista de Empleados";
             // 
             // pnlTituloForm
             // 
@@ -113,7 +113,7 @@
             this.pnlTituloForm.Controls.Add(this.lblTituloBuscar);
             this.pnlTituloForm.Controls.Add(this.txtBuscarEmpleado);
             this.pnlTituloForm.Controls.Add(this.lblCloseButton);
-            this.pnlTituloForm.Controls.Add(this.label3);
+            this.pnlTituloForm.Controls.Add(this.lblTituloEmpresa);
             this.pnlTituloForm.Location = new System.Drawing.Point(12, 12);
             this.pnlTituloForm.Name = "pnlTituloForm";
             this.pnlTituloForm.Size = new System.Drawing.Size(977, 38);
@@ -238,7 +238,7 @@
         private System.Windows.Forms.Label lblStatus;
         private System.Windows.Forms.Button btnRegistrarHuella;
         private System.Windows.Forms.Label lblCloseButton;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lblTituloEmpresa;
         private System.Windows.Forms.Panel pnlTituloForm;
         private System.Windows.Forms.Button btnValidarHuella;
         private System.Windows.Forms.Label lblTituloBuscar;
