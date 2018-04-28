@@ -2,3 +2,8 @@ D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\bin\Release\EntServiceBioz.dll
 D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\bin\Release\EntServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.dll
 D:\ServicioBioZ\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\EntServiceBioz\bin\Release\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\EntServiceBioz\bin\Release\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\EntServiceBioz\obj\Release\EntServiceBioz.pdb

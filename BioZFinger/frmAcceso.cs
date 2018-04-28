@@ -140,12 +140,21 @@ namespace BioZFinger
             txtUsuario.Focus();
         }
 
-        private void txtContaseña_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (e.KeyChar == Convert.ToChar(Keys.Enter))
+        
+
+        private void frmAcceso_Load(object sender, EventArgs e)
+        {            
+            ObtenerEmpresas();
+        }
+
+        private void txtContaseña_KeyDown(object sender, KeyEventArgs e)
+        {           
+            if (e.KeyCode == Keys.Enter)
             {
                 try
                 {
+                    Id_Empresa = ((EntServiceBioz.Entidad.EntEmpresa)cmbEmpresa.SelectedItem).id_empresa;
+                    NombreEmpresa = ((EntServiceBioz.Entidad.EntEmpresa)cmbEmpresa.SelectedItem).razon_social.ToString();
                     ValidarUsuario();
                 }
                 catch (Exception ex)
@@ -153,11 +162,7 @@ namespace BioZFinger
                     EtiquetaMensaje("No hay conexión con la Base de Datos", false);
                 }
             }
-        }
 
-        private void frmAcceso_Load(object sender, EventArgs e)
-        {            
-            ObtenerEmpresas();
         }
     }
 }

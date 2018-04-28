@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Persistencia\PerCkeckinout.cs" />
+    <Compile Include="Persistencia\PerDispositivos.cs" />
     <Compile Include="Persistencia\PerEmpleadoHuella.cs" />
     <Compile Include="Persistencia\PerEmpleados.cs" />
     <Compile Include="Persistencia\PerEmpresa.cs" />

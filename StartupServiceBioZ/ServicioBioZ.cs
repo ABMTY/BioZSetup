@@ -17,12 +17,14 @@ namespace CtrlServiceBioz
         {
             InitializeComponent();
             timer1.Enabled = true;
+            timer2.Enabled = true;
             string nombreServicio = "Servicio Bio Z";
             ServiceController sc = new ServiceController(nombreServicio);
             if (sc != null && sc.Status == ServiceControllerStatus.Running)         
                 HabiliarBotones(false);         
             else            
                 HabiliarBotones(true);
+           
         }
 
         private void btn_iniciar_Click(object sender, EventArgs e)
@@ -35,17 +37,20 @@ namespace CtrlServiceBioz
                 if (sc != null && sc.Status == ServiceControllerStatus.Stopped)
                 {
                     sc.Start();
-                    HabiliarBotones(false);
+                    HabiliarBotones(false);                    
                 }
                 sc.WaitForStatus(ServiceControllerStatus.Running);
                 sc.Close();
             }
+
 
             catch (Exception)
 
             {
 
             }
+
+            obtener_log();
         }
 
         private void HabiliarBotones(bool flat)
@@ -76,6 +81,8 @@ namespace CtrlServiceBioz
             {
 
             }
+
+            obtener_log();
         }
 
         private void btn_reiniciar_Click(object sender, EventArgs e)
@@ -100,6 +107,8 @@ namespace CtrlServiceBioz
             {
 
             }
+
+            obtener_log();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -109,10 +118,7 @@ namespace CtrlServiceBioz
 
         private void lblCloseButton_Click(object sender, EventArgs e)
         {
-            Menu menu = new Menu();
-            menu.Visible = true;
-            this.Close();
-   
+            Application.Exit();
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -129,6 +135,29 @@ namespace CtrlServiceBioz
         {
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void label1_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+       
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            obtener_log();
+        }
+
+        private void obtener_log()
+        {
+            lstBox_Log.Items.Clear();
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Log_BioZ.txt");
+
+            foreach (string line in lines)
+            {
+                lstBox_Log.Items.Add("\t" + line);
+            }
         }
     }
 }

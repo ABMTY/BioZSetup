@@ -16,3 +16,29 @@ D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\Enrollment.Validar
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.csproj.GenerateResource.Cache
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.exe
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\StartupServiceBioZ.exe.config
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\StartupServiceBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\StartupServiceBioZ.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\AForge.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\AForge.Video.DirectShow.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\AForge.Video.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\CtrlServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\DPFPDevNET.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\DPFPEngNET.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\DPFPGuiNet.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\DPFPShrNET.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\DPFPVerNET.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\IBM.Data.Informix.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\CtrlServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\x64\Debug\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\CtrlServiceBioz.Bioz.resources
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\CtrlServiceBioz.Menu.resources
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.Properties.Resources.resources
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\Enrollment.Validar.resources
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\x64\Debug\StartupServiceBioZ.csproj.GenerateResource.Cache

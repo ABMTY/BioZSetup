@@ -140,6 +140,51 @@ namespace PerServiceBioz.Persistencia
             return entidad;
 
         }
+
+        public EntEmpleado ObtenerEmpleadoporenrollnumber(int enrollnumber)
+        {
+            EntEmpleado entidad = null;
+            try
+            {
+                AbrirConexion();
+                StringBuilder CadenaSql = new StringBuilder();
+
+                IfxCommand cmd = new IfxCommand(string.Empty, Conexion);
+                var sql = "SELECT a.id_empleado,a.nombre,a.ap_paterno,a.ap_materno,a.id_departamento,a.id_sucursal,a.enrollnumber,a.imagen,b.desc_departamento,c.desc_sucursal FROM informix.empleados ";
+                sql = sql + "a left join informix.departamentos b on a.id_departamento=b.id_departamento left join informix.sucursales c on a.id_sucursal=c.id_sucursal WHERE a.enrollnumber=?";
+                cmd.CommandText = sql;
+
+                cmd.Parameters.Add(new IfxParameter()).Value = enrollnumber;
+                using (var dr = cmd.ExecuteReader())
+                {
+                    if (dr.Read())
+                    {
+                        entidad = new EntEmpleado();
+                        entidad.id_empleado = int.Parse(dr["id_empleado"].ToString());
+                        entidad.nombre = dr["nombre"].ToString();
+                        entidad.ap_paterno = dr["ap_paterno"].ToString();
+                        entidad.ap_materno = dr["ap_materno"].ToString();
+                        entidad.id_departamento = int.Parse(dr["id_departamento"].ToString());
+                        entidad.desc_departamento = dr["desc_departamento"].ToString();
+                        entidad.id_sucursal = int.Parse(dr["id_sucursal"].ToString());
+                        entidad.desc_sucursal = dr["desc_sucursal"].ToString();
+                        entidad.enrollnumber = int.Parse(dr["enrollnumber"].ToString());
+                        entidad.imagen = dr["imagen"].ToString();
+                    }
+                }
+            }
+            catch (Exception exc)
+            {
+                throw exc;
+            }
+            finally
+            {
+                CerrarConexion();
+            }
+            return entidad;
+
+        }
+
         public bool Insert(EntEmpleado entidad)
         {
             bool respuesta = false;

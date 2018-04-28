@@ -23,3 +23,21 @@ D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\IBM.Data.Informix.dll
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\bin\x86\Release\System.Windows.Forms.dll
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.ProjectInstaller.resources
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.csproj.GenerateResource.Cache
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\ServicesBioZ.exe.config
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\ServicesBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\ServicesBioZ.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\CtrlServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\IBM.Data.Informix.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\System.Windows.Forms.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\CtrlServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Release\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Release\Interop.zkemkeeper.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.csproj.ResolveComReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.ProjectInstaller.resources
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.csproj.GenerateResource.Cache
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Release\ServicesBioZ.pdb

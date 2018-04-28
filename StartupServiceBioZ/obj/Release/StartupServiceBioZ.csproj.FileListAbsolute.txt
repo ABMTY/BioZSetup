@@ -24,3 +24,19 @@ D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\bin\Release\CtrlServiceBioz.dll
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\bin\Release\CtrlServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\CtrlServiceBioz.Bioz.resources
 D:\ServicioBioZ\ServicioBioZ\StartupServiceBioZ\obj\Release\CtrlServiceBioz.Menu.resources
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\StartupServiceBioZ.exe.config
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\StartupServiceBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\StartupServiceBioZ.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\CtrlServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\IBM.Data.Informix.dll
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\CtrlServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\bin\Release\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\Release\CtrlServiceBioz.Bioz.resources
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.Properties.Resources.resources
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.csproj.GenerateResource.Cache
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\StartupServiceBioZ\obj\Release\StartupServiceBioZ.pdb

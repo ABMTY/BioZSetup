@@ -9,3 +9,21 @@ D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.ProjectInst
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.csproj.GenerateResource.Cache
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.exe
 D:\ServicioBioZ\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\ServicesBioZ.exe.config
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\ServicesBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\ServicesBioZ.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\CtrlServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\IBM.Data.Informix.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\System.Windows.Forms.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\CtrlServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\bin\x86\Debug\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Debug\Interop.zkemkeeper.dll
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.csproj.ResolveComReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.ProjectInstaller.resources
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.csproj.GenerateResource.Cache
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.exe
+I:\Proyectos ABMYT\ServicioBioZ\ServicesBioZ\obj\x86\Debug\ServicesBioZ.pdb

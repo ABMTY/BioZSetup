@@ -78,6 +78,7 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup />
   <ItemGroup>
     <Reference Include="IBM.Data.Informix, Version=3.0.0.2, Culture=neutral, PublicKeyToken=7c307b91aa13d208, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
@@ -107,6 +108,7 @@
       <DependentUpon>InstallerSetup.cs</DependentUpon>
     </Compile>
     <Compile Include="Model\checkinout.cs" />
+    <Compile Include="Model\EmpleadoHuella.cs" />
     <Compile Include="Model\EntEmpleado.cs" />
     <Compile Include="PerBioZ.cs" />
     <Compile Include="PerInformixDB.cs" />
@@ -145,6 +147,12 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CtrlServiceBioz\CtrlServiceBioz.csproj">
+      <Project>{d05dfa96-86bf-4d57-81d8-6cc81f97d2fd}</Project>
+      <Name>CtrlServiceBioz</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

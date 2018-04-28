@@ -6,3 +6,11 @@ D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\bin\Debug\EntServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\obj\Debug\PerServiceBioz.csprojResolveAssemblyReference.cache
 D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\obj\Debug\PerServiceBioz.dll
 D:\ServicioBioZ\ServicioBioZ\PerServiceBioz\obj\Debug\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\bin\Debug\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\bin\Debug\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\bin\Debug\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\bin\Debug\IBM.Data.Informix.dll
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\bin\Debug\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\obj\Debug\PerServiceBioz.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\obj\Debug\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\PerServiceBioz\obj\Debug\PerServiceBioz.pdb

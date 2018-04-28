@@ -77,17 +77,18 @@ namespace ServicesBioZ
 
                 string DEVICE_IP = Datos[0].ToString();
                 string DEVICE_PORT = Datos[1].ToString();
+                string DEVICE_NUMBER = Datos[2].ToString();
 
-                Set_DateDivice(DEVICE_IP, DEVICE_PORT);
+                Set_DateDivice(DEVICE_IP, DEVICE_PORT, DEVICE_NUMBER);
 
                        
-                string HOST = Datos[2].ToString();
-                string SERVER = Datos[3].ToString();
-                string SERVICE = Datos[4].ToString();
-                string PROTOCOL = Datos[5].ToString();
-                string BD = Datos[6].ToString();
-                string USER = Datos[7].ToString();
-                string PASSWORD = Datos[8].ToString();
+                string HOST = Datos[3].ToString();
+                string SERVER = Datos[4].ToString();
+                string SERVICE = Datos[5].ToString();
+                string PROTOCOL = Datos[6].ToString();
+                string BD = Datos[7].ToString();
+                string USER = Datos[8].ToString();
+                string PASSWORD = Datos[9].ToString();
 
                 //string CadenaConexion = "IPD=" + DEVICE_IP + "PUerto=" + DEVICE_PORT + ";Host=" + HOST + ";Server=" + SERVER + ";Service=" + SERVICE + ";Protocol=" + PROTOCOL + ";Database=" + BD + ";UID=" + USER + ";Password=" + PASSWORD;
                 //MessageBox.Show("Cadena de Conexion5:" + CadenaConexion);
@@ -100,7 +101,7 @@ namespace ServicesBioZ
             }
         }
 
-        private void Set_DateDivice(string DEVICE_IP, string DEVICE_PORT)
+        private void Set_DateDivice(string DEVICE_IP, string DEVICE_PORT, string DEVICE_NUMBER)
         {
             // Get the path to the executable file that is being installed on the target computer  
             string assemblypath = Context.Parameters["assemblypath"];
@@ -154,6 +155,12 @@ namespace ServicesBioZ
                                     {
                                         attribute.Value = DEVICE_PORT;
                                         //MessageBox.Show("node.Attributes['Value'] = " + DEVICE_PORT);
+                                    }
+                                    break;
+                                case "device_number":
+                                    {
+                                        attribute.Value = DEVICE_NUMBER;
+                                        //MessageBox.Show("node.Attributes['Value'] = " + DEVICE_NUMBER);
                                     }
                                     break;
                             }

@@ -123,7 +123,7 @@
             this.txtContaseña.PasswordChar = '*';
             this.txtContaseña.Size = new System.Drawing.Size(295, 23);
             this.txtContaseña.TabIndex = 98;
-            this.txtContaseña.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtContaseña_KeyPress);
+            this.txtContaseña.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtContaseña_KeyDown);            
             // 
             // btnAccesar
             // 

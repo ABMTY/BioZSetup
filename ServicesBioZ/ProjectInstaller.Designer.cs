@@ -39,6 +39,7 @@
             // 
             // serviceInstaller1
             // 
+            this.serviceInstaller1.Description = "Servicio que Guarda los Registro de Asistencia";
             this.serviceInstaller1.ServiceName = "Servicio Bio Z";
             this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 

@@ -18,6 +18,7 @@ namespace ServicesBioZ.Model
         private string phora = string.Empty;
         private DateTime? ckecked;
         public string Device { get; set; }
+        public int id_dispositivo { get; set; }
         public string pFecha
         {
             get
@@ -53,5 +54,7 @@ namespace ServicesBioZ.Model
                 }
             set { ckecked = value; }
         }
+
+        public int id_empleado { get; set; }
     }
 }

@@ -8,3 +8,13 @@ D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\bin\Release\PerServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\obj\Release\CtrlServiceBioz.csprojResolveAssemblyReference.cache
 D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\obj\Release\CtrlServiceBioz.dll
 D:\ServicioBioZ\ServicioBioZ\CtrlServiceBioz\obj\Release\CtrlServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\bin\Release\CtrlServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\bin\Release\CtrlServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\bin\Release\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\bin\Release\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\bin\Release\IBM.Data.Informix.dll
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\bin\Release\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\bin\Release\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\obj\Release\CtrlServiceBioz.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\obj\Release\CtrlServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\CtrlServiceBioz\obj\Release\CtrlServiceBioz.pdb

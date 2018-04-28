@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-using Enrollment;
+
 
 namespace CtrlServiceBioz
 {
@@ -16,7 +16,7 @@ namespace CtrlServiceBioz
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Menu());
+            Application.Run(new Bioz());
         }
     }
 }

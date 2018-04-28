@@ -29,3 +29,29 @@ D:\ServicioBioZ\ServicioBioZ\BioZFinger\bin\Release\PerServiceBioz.pdb
 D:\ServicioBioZ\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.exe
 D:\ServicioBioZ\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.pdb
 D:\ServicioBioZ\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.csprojResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\BioZFinger.exe.config
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\BioZFinger.exe
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\BioZFinger.pdb
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\AForge.Fakes.fakesconfig
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\AForge.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\AForge.Video.DirectShow.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\AForge.Video.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\CtrlServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\EntServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\PerServiceBioz.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\IBM.Data.Informix.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\CtrlServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\EntServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\PerServiceBioz.pdb
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\bin\Release\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.csprojFakesResolveAssemblyReference.cache
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.frmAcceso.resources
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.frmCapturarFoto.resources
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.frmListaEmpleados.resources
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.Registro.resources
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.Properties.Resources.resources
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.Validar.resources
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.csproj.GenerateResource.Cache
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.exe
+I:\Proyectos ABMYT\ServicioBioZ\BioZFinger\obj\Release\BioZFinger.pdb
